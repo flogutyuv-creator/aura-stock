@@ -7,7 +7,7 @@ import pandas as pd
 from datetime import datetime
 st.image(
     "logoaura.jpg",
-    width=200
+    width=300
 )
 
 st.markdown("""
