@@ -6,8 +6,8 @@ import sqlite3
 import pandas as pd
 from datetime import datetime
 st.image(
-    "auralogo.jpg",
-    width=180
+    "logoaura.jpg",
+    width=200
 )
 
 st.markdown("""
