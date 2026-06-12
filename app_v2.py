@@ -5,6 +5,11 @@ import streamlit as st
 import sqlite3
 import pandas as pd
 from datetime import datetime
+st.image(
+    "auralogo.jpg",
+    width=180
+)
+
 st.markdown("""
 <style>
 
